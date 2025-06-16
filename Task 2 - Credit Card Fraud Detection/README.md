@@ -29,6 +29,7 @@ To build a supervised machine learning model that can accurately classify credit
 ---
 
 ## 📊 Dataset Info
+- Dataset link: [DATASET](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 - Source: Provided via Google Drive
 - Files used:
@@ -98,6 +99,3 @@ Two models were trained:
 🔗 LinkedIn: [Arnab Chakrobarty](https://www.linkedin.com/in/arnab-chakrobarty/)
 
 ---
-
-## 📌 Folder Structure (Recommended)
-
